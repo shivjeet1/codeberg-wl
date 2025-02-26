@@ -1,0 +1,30 @@
+{
+  "targets": {
+    "/home/shiv/Shiv/Linux/codeberg/dmenu-wayland/build/dmenu-wl": {
+      "destination": "{bindir}/dmenu-wl",
+      "tag": "runtime",
+      "subproject": null,
+      "install_rpath": null
+    },
+    "/home/shiv/Shiv/Linux/codeberg/dmenu-wayland/build/dmenu-wl_path": {
+      "destination": "{bindir}/dmenu-wl_path",
+      "tag": "runtime",
+      "subproject": null,
+      "install_rpath": null
+    }
+  },
+  "data": {
+    "/home/shiv/Shiv/Linux/codeberg/dmenu-wayland/dmenu-wl_run": {
+      "destination": "{bindir}/dmenu-wl_run",
+      "tag": "runtime",
+      "subproject": null
+    }
+  },
+  "man": {
+    "/home/shiv/Shiv/Linux/codeberg/dmenu-wayland/dmenu-wl.1": {
+      "destination": "{mandir}/man1/dmenu-wl.1",
+      "tag": "man",
+      "subproject": null
+    }
+  }
+}

@@ -1,0 +1,6 @@
+# List of files installed by Meson
+# Does not contain files installed by custom scripts.
+/usr/local/bin/dmenu-wl
+/usr/local/bin/dmenu-wl_path
+/usr/local/share/man/man1/dmenu-wl.1
+/usr/local/bin/dmenu-wl_run

@@ -1,0 +1,16 @@
+# ninja log v6
+2	15	1740492596094434201	xdg-output-unstable-v1-protocol.c	598874d1428f055a
+2	15	1740492596094434201	xdg-output-unstable-v1-client-protocol.h	ea1ac730ce9fe6d8
+3	15	1740492596094434201	wlr-layer-shell-unstable-v1-protocol.c	f72111dd4e871888
+3	15	1740492596094434201	wlr-layer-shell-unstable-v1-client-protocol.h	697d80862999c2f
+1	17	1740492596096434229	xdg-shell-protocol.c	44e722614b5d5fdf
+1	20	1740492596100434285	xdg-shell-client-protocol.h	2b468223760f4022
+21	123	1740492596102421377	dmenu-wl.p/meson-generated_.._xdg-output-unstable-v1-protocol.c.o	240fc0afb0439761
+20	127	1740492596101434299	dmenu-wl.p/meson-generated_.._xdg-shell-protocol.c.o	4e1d0bbec81e9389
+21	129	1740492596102434314	dmenu-wl.p/meson-generated_.._wlr-layer-shell-unstable-v1-protocol.c.o	8f7b7ee2e272fe27
+4	167	1740492596084434060	dmenu-wl_path.p/dmenu_path.c.o	9a6233788e751376
+167	206	1740492596247436353	dmenu-wl_path	8e24919c2401ba16
+22	338	1740492596103288256	dmenu-wl.p/dmenu.c.o	45cebd95146c21be
+22	425	1740492596103709882	dmenu-wl.p/draw.c.o	247b3ad33224cd5
+426	484	1740492596506439996	dmenu-wl	724c986536a2d412
+2	246	1740492703935833791	meson-internal__install	9bd7faa9472bf40f

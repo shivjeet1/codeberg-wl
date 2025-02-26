@@ -1,0 +1,38 @@
+[
+  {
+    "directory": "/home/shiv/Shiv/Linux/codeberg/dmenu-wayland/build",
+    "command": "cc -Idmenu-wl.p -I. -I.. -I/usr/include/cairo -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -pedantic -Wall -D_DEFAULT_SOURCE '-DVERSION=\"4.2.1\"' -pthread -MD -MQ dmenu-wl.p/meson-generated_.._xdg-shell-protocol.c.o -MF dmenu-wl.p/meson-generated_.._xdg-shell-protocol.c.o.d -o dmenu-wl.p/meson-generated_.._xdg-shell-protocol.c.o -c xdg-shell-protocol.c",
+    "file": "xdg-shell-protocol.c",
+    "output": "dmenu-wl.p/meson-generated_.._xdg-shell-protocol.c.o"
+  },
+  {
+    "directory": "/home/shiv/Shiv/Linux/codeberg/dmenu-wayland/build",
+    "command": "cc -Idmenu-wl.p -I. -I.. -I/usr/include/cairo -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -pedantic -Wall -D_DEFAULT_SOURCE '-DVERSION=\"4.2.1\"' -pthread -MD -MQ dmenu-wl.p/meson-generated_.._xdg-output-unstable-v1-protocol.c.o -MF dmenu-wl.p/meson-generated_.._xdg-output-unstable-v1-protocol.c.o.d -o dmenu-wl.p/meson-generated_.._xdg-output-unstable-v1-protocol.c.o -c xdg-output-unstable-v1-protocol.c",
+    "file": "xdg-output-unstable-v1-protocol.c",
+    "output": "dmenu-wl.p/meson-generated_.._xdg-output-unstable-v1-protocol.c.o"
+  },
+  {
+    "directory": "/home/shiv/Shiv/Linux/codeberg/dmenu-wayland/build",
+    "command": "cc -Idmenu-wl.p -I. -I.. -I/usr/include/cairo -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -pedantic -Wall -D_DEFAULT_SOURCE '-DVERSION=\"4.2.1\"' -pthread -MD -MQ dmenu-wl.p/meson-generated_.._wlr-layer-shell-unstable-v1-protocol.c.o -MF dmenu-wl.p/meson-generated_.._wlr-layer-shell-unstable-v1-protocol.c.o.d -o dmenu-wl.p/meson-generated_.._wlr-layer-shell-unstable-v1-protocol.c.o -c wlr-layer-shell-unstable-v1-protocol.c",
+    "file": "wlr-layer-shell-unstable-v1-protocol.c",
+    "output": "dmenu-wl.p/meson-generated_.._wlr-layer-shell-unstable-v1-protocol.c.o"
+  },
+  {
+    "directory": "/home/shiv/Shiv/Linux/codeberg/dmenu-wayland/build",
+    "command": "cc -Idmenu-wl.p -I. -I.. -I/usr/include/cairo -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -pedantic -Wall -D_DEFAULT_SOURCE '-DVERSION=\"4.2.1\"' -pthread -MD -MQ dmenu-wl.p/dmenu.c.o -MF dmenu-wl.p/dmenu.c.o.d -o dmenu-wl.p/dmenu.c.o -c ../dmenu.c",
+    "file": "../dmenu.c",
+    "output": "dmenu-wl.p/dmenu.c.o"
+  },
+  {
+    "directory": "/home/shiv/Shiv/Linux/codeberg/dmenu-wayland/build",
+    "command": "cc -Idmenu-wl.p -I. -I.. -I/usr/include/cairo -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -pedantic -Wall -D_DEFAULT_SOURCE '-DVERSION=\"4.2.1\"' -pthread -MD -MQ dmenu-wl.p/draw.c.o -MF dmenu-wl.p/draw.c.o.d -o dmenu-wl.p/draw.c.o -c ../draw.c",
+    "file": "../draw.c",
+    "output": "dmenu-wl.p/draw.c.o"
+  },
+  {
+    "directory": "/home/shiv/Shiv/Linux/codeberg/dmenu-wayland/build",
+    "command": "cc -Idmenu-wl_path.p -I. -I.. -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -pedantic -Wall -D_DEFAULT_SOURCE '-DVERSION=\"4.2.1\"' -MD -MQ dmenu-wl_path.p/dmenu_path.c.o -MF dmenu-wl_path.p/dmenu_path.c.o.d -o dmenu-wl_path.p/dmenu_path.c.o -c ../dmenu_path.c",
+    "file": "../dmenu_path.c",
+    "output": "dmenu-wl_path.p/dmenu_path.c.o"
+  }
+]
