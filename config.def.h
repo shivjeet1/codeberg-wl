@@ -30,7 +30,6 @@ static const Rule rules[] = {
 	{ "Firefox",		NULL,       NULL,       1 << 1,			0,	-1 },
 	{ "Obs",    	 		NULL,       NULL,       1 << 5,			0,			-1 },
 	{ "Sioyek",   		NULL,       NULL,       1 << 4,			0,	-1 },
-	{ "Reddit",			NULL,		NULL,       1 << 4,		0,			-1 },
 };
 /* layout(s) */
 static const Layout layouts[] = {
